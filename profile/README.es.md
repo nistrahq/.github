@@ -12,6 +12,14 @@
   <a href="./README.md">English</a> · <a href="./README.es.md">Español</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />
+</p>
+
 ## Un producto, cinco experiencias conectadas
 
 **Demy** ayuda a las academias educativas a coordinar administradores, docentes y estudiantes alrededor de la misma información operativa. Una API REST compartida conecta la landing pública, el espacio para administradores en tablet y experiencias móviles dedicadas para docentes y estudiantes.
