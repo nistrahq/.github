@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="84" viewBox="0 0 420 84" role="img" aria-labelledby="title description">
+  <title id="title">Explore Demy live</title>
+  <desc id="description">Button that opens the live Demy product</desc>
+  <defs>
+    <linearGradient id="button" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4F46E5" />
+      <stop offset="1" stop-color="#2563EB" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-25%" width="120%" height="150%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#1E3A8A" flood-opacity="0.32" />
+    </filter>
+  </defs>
+  <rect x="7" y="5" width="406" height="68" rx="17" fill="url(#button)" filter="url(#shadow)" />
+  <rect x="7.5" y="5.5" width="405" height="67" rx="16.5" fill="none" stroke="#93C5FD" stroke-opacity="0.55" />
+  <circle cx="48" cy="39" r="22" fill="#FFFFFF" fill-opacity="0.16" />
+  <circle cx="48" cy="39" r="12" fill="none" stroke="#FFFFFF" stroke-width="2" />
+  <path d="M36 39h24M48 27c4 4 6 8 6 12s-2 8-6 12M48 27c-4 4-6 8-6 12s2 8 6 12" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
+  <text x="82" y="35" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="700">Explore Demy live</text>
+  <text x="82" y="54" fill="#DBEAFE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5">Open the complete product experience</text>
+  <circle cx="378" cy="39" r="17" fill="#FFFFFF" fill-opacity="0.16" />
+  <path d="M371 39h13m-5-5 5 5-5 5" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

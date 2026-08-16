@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="./README.md">English</a> · <a href="./README.es.md">Español</a>
+  <a href="./README.md">🇬🇧 <strong>English</strong></a> · <a href="./README.es.md">🇵🇪 <strong>Español</strong></a>
 </p>
 
 <p align="center">
   <a href="https://nistra-demy.netlify.app/">
-    <img src="https://img.shields.io/badge/Visita_Demy-Producto_en_vivo-4F46E5?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Visita el producto Demy en vivo" />
+    <img src="./assets/visit-demy-es.svg" alt="Visita el producto Demy en vivo" width="420" />
   </a>
 </p>
 
