@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://nistra-demy.netlify.app/">
-    <img src="./assets/visit-demy-es.svg" alt="Visita el producto Demy en vivo" width="420" />
+    <img src="./assets/visit-demy-es.svg" alt="Visita la landing page de Demy" width="420" />
   </a>
 </p>
 

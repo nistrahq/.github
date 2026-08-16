@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="84" viewBox="0 0 420 84" role="img" aria-labelledby="title description">
-  <title id="title">Visita Demy en vivo</title>
-  <desc id="description">Botón que abre el producto Demy en vivo</desc>
+  <title id="title">Visita la landing page de Demy</title>
+  <desc id="description">Botón que abre la landing page pública de Demy</desc>
   <defs>
     <linearGradient id="button" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#4F46E5" />
@@ -15,8 +15,8 @@
   <circle cx="48" cy="39" r="22" fill="#FFFFFF" fill-opacity="0.16" />
   <circle cx="48" cy="39" r="12" fill="none" stroke="#FFFFFF" stroke-width="2" />
   <path d="M36 39h24M48 27c4 4 6 8 6 12s-2 8-6 12M48 27c-4 4-6 8-6 12s2 8 6 12" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" />
-  <text x="82" y="35" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="20" font-weight="700">Visita Demy en vivo</text>
-  <text x="82" y="54" fill="#DBEAFE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5">Abre la experiencia completa</text>
+  <text x="82" y="35" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="700">Visita la landing page de Demy</text>
+  <text x="82" y="54" fill="#DBEAFE" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5">Producto, precios y contacto</text>
   <circle cx="378" cy="39" r="17" fill="#FFFFFF" fill-opacity="0.16" />
   <path d="M371 39h13m-5-5 5 5-5 5" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
 </svg>
