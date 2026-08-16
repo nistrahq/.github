@@ -13,11 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" />
+  <a href="https://nistra-demy.netlify.app/">
+    <img src="https://img.shields.io/badge/Visita_Demy-Producto_en_vivo-4F46E5?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Visita el producto Demy en vivo" />
+  </a>
 </p>
 
 ## Un producto, cinco experiencias conectadas
@@ -26,11 +24,11 @@
 
 | Experiencia | Propósito | Tecnología |
 | --- | --- | --- |
-| [Demy Landing](https://github.com/nistrahq/demy-landing) | Descubrimiento del producto, precios, equipo y contacto | Vite, Tailwind CSS, JavaScript |
-| [Demy Admins](https://github.com/nistrahq/demy-admins) | Operaciones, matrículas, facturación y finanzas | Kotlin, Jetpack Compose |
-| [Demy Teachers](https://github.com/nistrahq/demy-teachers) | Horarios docentes, reprogramación y asistencia | Flutter, Dart |
-| [Demy Students](https://github.com/nistrahq/demy-students) | Horarios personales, novedades, perfil y configuración | Swift, SwiftUI |
-| [Demy API](https://github.com/nistrahq/demy-api) | Capacidades de negocio e integraciones compartidas | Java 21, Spring Boot, MySQL |
+| [Demy Landing](https://github.com/nistrahq/demy-landing) | Descubrimiento del producto, precios, equipo y contacto | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) |
+| [Demy Admins](https://github.com/nistrahq/demy-admins) | Operaciones, matrículas, facturación y finanzas | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?logo=jetpackcompose&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) |
+| [Demy Teachers](https://github.com/nistrahq/demy-teachers) | Horarios docentes, reprogramación y asistencia | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) |
+| [Demy Students](https://github.com/nistrahq/demy-students) | Horarios personales, novedades, perfil y configuración | ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?logo=apple&logoColor=white) |
+| [Demy API](https://github.com/nistrahq/demy-api) | Capacidades de negocio e integraciones compartidas | ![Java 21](https://img.shields.io/badge/Java_21-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
 
 ## Recorrido del producto
 
